@@ -7,7 +7,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
+<<<<<<< HEAD
 import com.hells.geometric.Triangle;
+=======
+import com.hells.model.Triangle;
+>>>>>>> 1bce4b18e81d746c6aef94eb0fa3efffe3afda78
 
 public abstract class TriangleCalc {
 
